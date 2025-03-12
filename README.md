@@ -113,10 +113,3 @@ Self-hosting gives you full control over your application and reduces reliance o
 Svelte 5!
 ## 📜 License
 SelfKit is open-source and licensed under MIT.
-
----
-
-💡 **Need help?** Open an issue on GitHub!
-
-
-<a href="https://buymeacoffee.com/tomlec" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
